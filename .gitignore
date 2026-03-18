@@ -1,0 +1,20 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de dependencias
+node_modules/
+vendor/
+
+# Archivos de configuración personal
+.env
+config.local.php
+
+# Archivos temporales
+*.log
+*.tmp
+*.cache
+
+# Carpetas de build
+dist/
+build/
